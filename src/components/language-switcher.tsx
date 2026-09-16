@@ -16,7 +16,7 @@ const localeLabels = {
   "en": "English",
   "ja": "日本語",
   "ko": "한국어",
-  "zh-tw": "繁體中文",
+  "zh-TW": "繁體中文",
 } satisfies Record<Locale, string>;
 
 /**

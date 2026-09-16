@@ -280,14 +280,14 @@ const GROUP_TITLES_ZH_TW: Record<string, string> = {
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
   ko: GROUP_TITLES_KO,
-  "zh-tw": GROUP_TITLES_ZH_TW,
+  "zh-TW": GROUP_TITLES_ZH_TW,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
   ko: "개요",
-  "zh-tw": "總覽",
+  "zh-TW": "總覽",
 };
 
 // 分组排序顺序（与 NAVIGATION_CONFIG 的导航顺序保持一致）

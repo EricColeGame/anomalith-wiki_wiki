@@ -4,7 +4,7 @@ import { routing, type Locale } from "./routing";
 import en from "@/locales/en.json";
 import ja from "@/locales/ja.json";
 import ko from "@/locales/ko.json";
-import zhTw from "@/locales/zh-tw.json";
+import zhTw from "@/locales/zh-TW.json";
 
 type Messages = typeof en;
 
@@ -13,7 +13,7 @@ const messagesMap: Record<Locale, Partial<Messages>> = {
   "en": en,
   "ja": ja,
   "ko": ko,
-  "zh-tw": zhTw,
+  "zh-TW": zhTw,
 };
 
 function deepMerge<T>(base: T, override: Partial<T>): T {
