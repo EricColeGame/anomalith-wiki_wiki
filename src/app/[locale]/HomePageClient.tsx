@@ -32,7 +32,7 @@ export default function HomePageClient({ home, locale, articles, recentArticles 
           <span className="mt-2 inline-flex items-center rounded-md border border-[hsl(var(--nav-theme))] bg-[hsl(var(--nav-theme))] px-2.5 py-0.5 text-xs font-semibold text-primary-foreground sm:-translate-y-1.5">{home.hero.eyebrow}</span>
         </div>
         {YOUTUBE_VIDEO_ID && (
-          <div className="mx-auto mt-5 max-w-2xl">
+          <div className="mx-auto mt-5 max-w-4xl">
             <TrailerButton videoId={YOUTUBE_VIDEO_ID} />
           </div>
         )}

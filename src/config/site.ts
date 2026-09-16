@@ -18,17 +18,18 @@ export interface SiteConfig {
 }
 
 export const siteConfig: SiteConfig = {
-  name: "My Seafood Stand Wiki",
-  shortName: "My Seafood Stand",
-  logoText: "SS",
-  tagline: "Complete Guides, Codes, Recipes & Tier Lists",
-  description: "Your ultimate guide to My Seafood Stand on Roblox! Explore active working codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-  url: process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top",
-  gameUrl: "https://www.roblox.com/games/my-seafood-stand",
-  heroVideoId: "M8DvcwoFRrk", // Roblox My Seafood Stand codes & gameplay video
+  name: "ANOMALITH Wiki",
+  shortName: "ANOMALITH",
+  logoText: "A",
+  tagline: "Complete Guides, Weapons, Skills & Anomaly Zone Walkthroughs",
+  description: "Your ultimate guide to ANOMALITH! Explore gameplay guides, weapons and skills, anomaly zone walkthroughs, story and characters, demo and release information.",
+  url: process.env.NEXT_PUBLIC_SITE_URL || "https://anomalith-wiki.wiki",
+  gameUrl: "https://store.steampowered.com/app/4017880/ANOMALITH/",
+  heroVideoId: "WU_E-yf4kj0", // ANOMALITH - Announcement Trailer (FURYU official channel)
   social: {
-    discord: "https://discord.gg/roblox",
-    youtube: "https://www.youtube.com/@roblox",
+    discord: "https://discord.gg/7PnEy7aKPb",
+    youtube: "https://www.youtube.com/@FURYUGAMES",
+    twitter: "https://x.com/FURYU_GAMES_EN",
   },
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",

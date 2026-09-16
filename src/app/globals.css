@@ -22,10 +22,10 @@
     --destructive-foreground: 0 0% 100%;
     --border: 0 0% 88%;
     --input: 0 0% 88%;
-    --ring: 18 65% 42%;
+    --ring: 350 70% 45%;
     --radius: 0.75rem;
-    --nav-theme: 18 65% 42%;
-    --nav-theme-light: 18 65% 55%;
+    --nav-theme: 350 70% 45%;
+    --nav-theme-light: 350 70% 58%;
     --chart-1: 18 65% 42%;
     --chart-2: 175 32% 42%;
     --chart-3: 221 30% 42%;
@@ -52,9 +52,9 @@
     --destructive-foreground: 0 0% 96%;
     --border: 0 0% 18%;
     --input: 0 0% 18%;
-    --ring: 18 65% 45%;
-    --nav-theme: 18 65% 40%;
-    --nav-theme-light: 18 65% 55%;
+    --ring: 350 70% 45%;
+    --nav-theme: 350 70% 45%;
+    --nav-theme-light: 350 70% 58%;
   }
 }
 
