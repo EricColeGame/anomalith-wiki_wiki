@@ -34,27 +34,27 @@
     },
     "start": {
       "eyebrow": "Start Here",
-      "title": "Your My Seafood Stand Journey",
+      "title": "Your ANOMALITH Journey",
       "cards": [
         {
           "number": "1",
           "title": "Beginner Guide",
-          "description": "Master the Spirit World from day one with our comprehensive beginner guide covering controls, combat, and early progression."
+          "description": "Learn the Dive, Retrieve, Return loop, finish the calibration prologue, and extract from your first Anomaly Zone alive."
         },
         {
           "number": "2",
-          "title": "Fastest Leveling",
-          "description": "Dominate early game and max your progression with the most efficient leveling routes and strategies."
+          "title": "Combat Basics",
+          "description": "Read Anomaly attack patterns, hold the Instability Engine under control, and build the loadout that survives a boss phase shift."
         },
         {
           "number": "3",
-          "title": "Best Farming Spots",
-          "description": "Maximize your Soul Essence and EXP gains with optimal farming locations for every stage."
+          "title": "Skills & Weapon Upgrades",
+          "description": "Plan Anomalization Skill picks and Workshop weapon upgrades so every anomalous material you bring back funds the right build."
         },
         {
           "number": "4",
-          "title": "How to Extract",
-          "description": "Learn the best methods and locations for extracting resources in My Seafood Stand."
+          "title": "Resource & Loot Farming",
+          "description": "Route efficient Dives for anomalous materials, run a tight inventory, and bank spare gear before the difficulty curve spikes."
         }
       ]
     },
@@ -125,174 +125,260 @@
       ]
     },
     "aboutGame": {
-      "title": "What is My Seafood Stand?",
+      "title": "What is ANOMALITH?",
       "paragraphs": [
-        "My Seafood Stand is a stylized fighting RPG on Roblox inspired by the Bleach anime universe. Choose from three playable races Shinigami, Quincy, or Hollow each with unique progression systems, unlockable abilities, and evolution paths. Master over 130 skills as you fight your way to the level 100 cap.",
-        "Whether you're unlocking your first Shikai, evolving from a base Hollow into an Arrancar, or grinding Quincy Lieutenant missions, our wiki covers every system with detailed guides, data tables, and step-by-step walkthroughs."
+        "ANOMALITH is a psychological survival action game developed and published by FURYU Corporation. You play as 17-year-old Reona Minazuki, diving into reality-bending Anomaly Zones to recover anomalous materials and uncover what happened to her missing friend in a ruined Showa-era Japan.",
+        "Every excursion follows the same three-phase loop: Dive into a quarantined sector, Retrieve whatever you can carry, and Return to the extraction point before the Anomalies close in. Between runs the Workshop turns salvaged materials into weapon upgrades, gear, and Anomalization Skills, while the Instability Engine trades your stability for biological firepower. Our wiki covers the whole system with walkthroughs, data tables, boss breakdowns, and step-by-step guides."
       ],
       "stats": [
         {
           "label": "Developer",
-          "value": "Midnight Continent"
-        },
-        {
-          "label": "Platform",
-          "value": "Roblox"
+          "value": "FURYU Corporation"
         },
         {
           "label": "Genre",
-          "value": "Fighting RPG"
+          "value": "Survival Action Adventure"
         },
         {
-          "label": "Visits",
-          "value": "12.6M+"
+          "label": "Platforms",
+          "value": "PC · PS5 · Switch 2"
         },
         {
-          "label": "Favorites",
-          "value": "243K+"
+          "label": "Release Date",
+          "value": "October 28, 2026"
         },
         {
-          "label": "Total Skills",
-          "value": "130+"
+          "label": "Scenario Writer",
+          "value": "Romeo Tanaka"
         },
         {
-          "label": "Level Cap",
-          "value": "100"
+          "label": "Core Loop",
+          "value": "Dive · Retrieve · Return"
         }
       ],
       "cta": "Explore All Guides"
     },
     "explore": {
       "title": "Explore ANOMALITH Wiki",
-      "description": "Master your seafood restaurant on Roblox with essential progression guides, active codes, complete fish & recipe catalogs, and optimal upgrade strategies.",
+      "description": "Every ANOMALITH system in one place: gameplay walkthroughs, story and character lore, weapons and skill builds, demo and release details, community hubs, and the questions players ask most.",
       "modules": [
         {
           "order": 1,
-          "name": "My Seafood Stand Working Codes",
-          "description": "Redeem the latest working codes to claim free coins, gems, exclusive cosmetics, and boost items before they expire.",
-          "href": "/codes/my-seafood-stand-codes",
-          "displayType": "code-box",
+          "name": "ANOMALITH Gameplay Guide",
+          "description": "The core ANOMALITH gameplay loop explained: exploring quarantined Anomaly Zones, third-person combat, investigation mechanics, and the controls every new player needs.",
+          "href": "/guide/anomalith-gameplay",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Code",
-              "detail": "FULLRELEASE — Free Cash & Rewards"
+              "label": "1",
+              "detail": "Enter a quarantined sector and read the mission parameters before you move."
             },
             {
-              "label": "Code",
-              "detail": "75KLIKES — Exclusive Ability Reroll"
+              "label": "2",
+              "detail": "Clear Anomalies with controlled bursts and keep a retreat route in mind."
             },
             {
-              "label": "Tip",
-              "detail": "Codes are case-sensitive; enter them in the Settings menu"
+              "label": "3",
+              "detail": "Collect anomalous materials from downed enemies and marked containers."
+            },
+            {
+              "label": "4",
+              "detail": "Watch the Instability Engine and cool down before mutations take over."
+            },
+            {
+              "label": "5",
+              "detail": "Bank your haul at the Workshop and upgrade weapons between Dives."
+            },
+            {
+              "label": "6",
+              "detail": "Reach the extraction point and return with everything you salvaged."
             }
           ]
         },
         {
           "order": 2,
-          "name": "Beginner Guide: How to Start & Serve Customers",
-          "description": "Step-by-step beginner guide covering customer ordering, food prep, station management, and cashier checkout mechanics.",
-          "href": "/guide/my-seafood-stand-beginner-guide",
-          "displayType": "feature-cards",
+          "name": "ANOMALITH Story and Characters",
+          "description": "The ANOMALITH world, plot background, main cast, and Anomaly Zone lore behind the psychological narrative written by Romeo Tanaka.",
+          "href": "/characters/anomalith-characters",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Step 1",
-              "detail": "Take customer order at the stall front"
+              "label": "Reona",
+              "detail": "Reona Minazuki, the 17-year-old protagonist searching for her missing friend."
             },
             {
-              "label": "Step 2",
-              "detail": "Cook seafood on the grill or boil station"
+              "label": "File 8",
+              "detail": "The silent girl catalogued as File #00000-08, found inside the Anomaly Zones."
             },
             {
-              "label": "Step 3",
-              "detail": "Serve warm food promptly for maximum customer tips"
+              "label": "Geist",
+              "detail": "Bleicher Geist, the spectral archetype built on phase shifts and burst damage."
+            },
+            {
+              "label": "Cast",
+              "detail": "Full character roster with faction roles and the Japanese voice cast."
+            },
+            {
+              "label": "Writer",
+              "detail": "Scenario penned by Romeo Tanaka, author of the game's psychological narrative."
             }
           ]
         },
         {
           "order": 3,
-          "name": "Seafood & Fish Tier List",
-          "description": "Complete breakdown of all catchable fish and seafood ranked by market value, customer demand, and profit margins.",
-          "href": "/seafood/my-seafood-stand-tier-list",
+          "name": "ANOMALITH Weapons and Skills Guide",
+          "description": "Firearms, Workshop weapon upgrades, Anomalization Skills, and gear builds ranked so you know where to spend the materials you extract.",
+          "href": "/mechanics/anomalith-combat",
           "displayType": "tier-grid",
           "highlights": [
             {
-              "label": "S Tier",
-              "detail": "King Crab · Lobster Boil — Highest profit per customer"
+              "label": "S",
+              "detail": "Top-tier weapons and skills that carry Hard Mode sectors on their own."
             },
             {
-              "label": "A Tier",
-              "detail": "Salmon · Jumbo Shrimp · Tuna Steak — Reliable fast earners"
+              "label": "A",
+              "detail": "Strong all-round rifles and mutation skills with forgiving ammo economy."
             },
             {
-              "label": "B Tier",
-              "detail": "Clams · Oysters · Squid — Great mid-game margin"
+              "label": "B",
+              "detail": "Starter loadouts that clear the opening sectors while you bank materials."
             },
             {
-              "label": "C Tier",
-              "detail": "Common Sardines · Small Crab — Starter seafood"
+              "label": "C",
+              "detail": "Situational gear that only pays off inside a dedicated build."
             }
           ]
         },
         {
           "order": 4,
-          "name": "Best Upgrades Progression",
-          "description": "Optimal order to spend your cash: expand kitchen stations, hire waitstaff, speed up grills, and upgrade seating.",
-          "href": "/upgrades/my-seafood-stand-best-upgrades",
-          "displayType": "feature-cards",
+          "name": "ANOMALITH Beginner Guide",
+          "description": "First-hours advice for the ANOMALITH demo and full release: exploration routes, resource management, combat cautions, and early progression.",
+          "href": "/guide/anomalith-walkthrough",
+          "displayType": "step-by-step",
           "highlights": [
             {
-              "label": "Priority 1",
-              "detail": "Cooking Speed & Extra Burners — Clears customer backlog"
+              "label": "1",
+              "detail": "Finish the Awakening prologue to unlock Dives and the Workshop."
             },
             {
-              "label": "Priority 2",
-              "detail": "Customer Seating Capacity — Increases simultaneous diners"
+              "label": "2",
+              "detail": "Commit your first materials to one weapon instead of spreading them thin."
             },
             {
-              "label": "Priority 3",
-              "detail": "Auto-Chef / Waiter Staff — Passive hands-free revenue"
+              "label": "3",
+              "detail": "Learn the audio cues that announce an Anomaly before it reaches you."
+            },
+            {
+              "label": "4",
+              "detail": "Carry sanity and Instability recovery items into every sector."
+            },
+            {
+              "label": "5",
+              "detail": "Backtrack for missed upgrades once a sector's Anomalies are cleared."
+            },
+            {
+              "label": "6",
+              "detail": "Prepare a second loadout before the Act III Temporal Core run."
             }
           ]
         },
         {
           "order": 5,
-          "name": "How to Get Cash Fast",
-          "description": "Top money-making strategies, VIP evaluation, tip maximization, and high-efficiency serving tips.",
-          "href": "/guide/my-seafood-stand-how-to-get-cash-fast",
-          "displayType": "feature-cards",
+          "name": "ANOMALITH Demo and Release Guide",
+          "description": "How to get the ANOMALITH demo, what the trial covers, the October 28, 2026 release date, platform versions, and where to buy.",
+          "href": "/release/anomalith-release-date",
+          "displayType": "code-cards",
           "highlights": [
             {
-              "label": "Combo",
-              "detail": "Chain orders quickly to build the Customer Happiness multiplier"
+              "label": "Oct 28",
+              "detail": "ANOMALITH launches worldwide on October 28, 2026."
             },
             {
-              "label": "High Margin",
-              "detail": "Focus high-tier seafood boils during peak customer rush hours"
+              "label": "Demo",
+              "detail": "The free demo covers the opening sectors and the Workshop."
             },
             {
-              "label": "Reinvest",
-              "detail": "Keep 20% cash reserve for fresh ingredient replenishment"
+              "label": "Platforms",
+              "detail": "PC via Steam, PlayStation 5, and Nintendo Switch 2 with controller support."
+            },
+            {
+              "label": "Editions",
+              "detail": "Standard and Digital Deluxe bundles with an early purchase bonus window."
             }
           ]
         },
         {
           "order": 6,
-          "name": "Plot Expansion & Stand Customization",
-          "description": "Unlock bigger land plots, arrange optimal cooking layouts, and add high-value decorative upgrades.",
-          "href": "/upgrades/my-seafood-stand-how-to-upgrade-plot",
-          "displayType": "feature-cards",
+          "name": "ANOMALITH Updates and News",
+          "description": "Official ANOMALITH announcements, demo events, version updates, and public information shared by the FURYU development team.",
+          "href": "/release/anomalith-demo",
+          "displayType": "card-list",
           "highlights": [
             {
-              "label": "Plot 1",
-              "detail": "Starter Beach Stand (3 Tables, 1 Grill)"
+              "label": "Trailers",
+              "detail": "Announcement, story, system, and gameplay trailers in one timeline."
             },
             {
-              "label": "Plot 2",
-              "detail": "Boardwalk Restaurant (6 Tables, 2 Grills, Boil Station)"
+              "label": "Demo",
+              "detail": "What the free demo includes and how it feeds into the full release."
             },
             {
-              "label": "Plot 3",
-              "detail": "Luxury Pier Seafood Pavilion (Full Automation & VIP Seating)"
+              "label": "Editions",
+              "detail": "Standard and Digital Deluxe contents compared side by side."
+            },
+            {
+              "label": "Updates",
+              "detail": "Official announcements, demo events, and version updates as published."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "ANOMALITH Community and Social Links",
+          "description": "Official ANOMALITH community channels: the Steam Community hub, the official FURYU social accounts, and the official Discord server.",
+          "href": "/community/anomalith-twitter",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "X",
+              "detail": "Follow the official FURYU account for ANOMALITH reveals and dates."
+            },
+            {
+              "label": "Discord",
+              "detail": "Join the official ANOMALITH Discord to share route finds and boss tips."
+            },
+            {
+              "label": "Reddit",
+              "detail": "See what players are testing in the demo and which builds they trust."
+            },
+            {
+              "label": "Steam",
+              "detail": "Steam Community hub for announcements, screenshots, and discussion."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "ANOMALITH FAQ",
+          "description": "Common ANOMALITH questions answered: platforms, release date, multiplayer support, demo save data, and system requirements.",
+          "href": "/guide/anomalith-demo-review",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Launch",
+              "detail": "October 28, 2026 on PC, PlayStation 5, and Nintendo Switch 2."
+            },
+            {
+              "label": "Co-op",
+              "detail": "ANOMALITH is a single-player story experience with no co-op mode."
+            },
+            {
+              "label": "Demo",
+              "detail": "The free demo covers the opening sectors before the full release."
+            },
+            {
+              "label": "Hardware",
+              "detail": "Official PC system requirements and console performance targets."
             }
           ]
         }
@@ -300,27 +386,31 @@
     },
     "faq": {
       "title": "Frequently Asked Questions",
-      "description": "Quick answers to the most common questions about My Seafood Stand.",
+      "description": "Quick answers to the questions ANOMALITH players ask most, from platforms and release timing to the demo, combat, and boss preparation.",
       "items": [
         {
-          "question": "What is My Seafood Stand?",
-          "answer": "My Seafood Stand is a free-to-play fighting RPG on Roblox based on the Bleach anime. You choose one of game mechanics Shinigami (Soul Reaper), Quincy, or Hollow each with unique progression, combat abilities, and evolution systems. The game features 130+ skills, a level 100 cap, boss fights, and deep build customization."
+          "question": "What is ANOMALITH?",
+          "answer": "ANOMALITH is a psychological survival action game from FURYU Corporation. You play as 17-year-old Reona Minazuki, diving into reality-bending Anomaly Zones to retrieve anomalous materials and uncover what happened to her missing friend."
         },
         {
-          "question": "Which race should beginners pick?",
-          "answer": "Shinigami is the most straightforward starter race, while Hollow and Quincy offer more specialized progression routes. Compare their abilities before committing."
+          "question": "When does ANOMALITH release and on which platforms?",
+          "answer": "ANOMALITH launches on October 28, 2026 for PC via Steam, PlayStation 5, and Nintendo Switch 2, with full controller support. The early purchase bonus window runs from October 29 to November 11, 2026 JST."
         },
         {
-          "question": "What is the current level cap?",
-          "answer": "The current level cap is 100, with more than 130 skills available across trees and race progression systems."
+          "question": "Is there an ANOMALITH demo?",
+          "answer": "Yes. The free ANOMALITH demo is downloaded from the Steam store page and covers the opening sectors, the Dive, Retrieve, Return loop, Workshop crafting, and a check against the official PC system requirements."
         },
         {
-          "question": "Where do I find active codes?",
-          "answer": "Use the Codes page for working codes, rewards, expiration notes, and redeem instructions."
+          "question": "Does ANOMALITH demo progress carry over to the full game?",
+          "answer": "The ANOMALITH demo is a standalone slice of the opening sectors, while pre-order and Digital Deluxe bonus items are granted to your profile once you unlock the Workshop and Shooting Range in the full release."
         },
         {
-          "question": "Are boss guides updated?",
-          "answer": "Boss pages are organized with spawn notes, attack patterns, strategies, drop tables, and related next steps for progression."
+          "question": "Is ANOMALITH multiplayer or co-op?",
+          "answer": "No. ANOMALITH is designed as a single-player, story-driven survival experience focused on solo resource management, atmospheric exploration, and narrative mystery."
+        },
+        {
+          "question": "How do I prepare for the ANOMALITH boss fight?",
+          "answer": "Take a weapon upgraded at the Workshop, carry sanity recovery items for the Operating Room encounter, and learn the three boss phases: the Calculated Scalpel, the aerial ambush, and the desperation frenzy below 35% health."
         }
       ]
     },
