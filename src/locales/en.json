@@ -6,7 +6,16 @@
     "description": "Your ultimate guide to ANOMALITH! Explore gameplay guides, weapons and skills, anomaly zone walkthroughs, story and characters, demo and release information.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
-  "nav": {},
+  "nav": {
+    "guide": "Guide",
+    "mechanics": "Mechanics",
+    "characters": "Characters",
+    "release": "Release",
+    "media": "Media",
+    "community": "Community",
+    "menu": "Menu",
+    "toggleTheme": "Toggle theme"
+  },
   "home": {
     "meta": {
       "title": "ANOMALITH Wiki - Skills, Weapons & Guide",
@@ -62,65 +71,65 @@
       "eyebrow": "Popular Pages",
       "title": "Trending Now",
       "quickLinks": [
-        "Hollow Progression",
-        "Fastest Leveling",
-        "Spirit Charms",
-        "All Boss Guides"
+        "Anomaly Zones",
+        "Combat Basics",
+        "Boss Fights",
+        "Demo Guide"
       ],
       "cards": [
         {
           "badge": "Beginner",
-          "title": "Beginner Guide",
-          "description": "Everything you need from your first login to mastering the basics of combat and progression.",
-          "href": "/beginner-guide"
+          "title": "Walkthrough",
+          "description": "Complete strategy guide covering puzzles, combat, exploration, and platform settings.",
+          "href": "/guide/anomalith-walkthrough"
         },
         {
           "badge": "Updated",
-          "title": "Active Codes",
-          "description": "All working codes with rewards redeem before they expire.",
-          "href": "/codes"
+          "title": "Demo Guide",
+          "description": "How to play the demo, the gameplay loops it covers, and the PC specs you need.",
+          "href": "/release/anomalith-demo"
         },
         {
           "badge": "Updated",
-          "title": "Equipment Database",
-          "description": "94 items across 5 slots complete gear database with stats, rarity, and sources.",
-          "href": "/equipment"
+          "title": "Release Date & Platforms",
+          "description": "Confirmed release date plus PS5, Xbox, Steam, and Switch 2 details in one place.",
+          "href": "/release/anomalith-release-date"
         },
         {
           "badge": "Popular",
-          "title": "Which Race Should You Pick?",
-          "description": "Shinigami, Quincy, or Hollow compare all three and find your perfect playstyle.",
-          "href": "/races/best-race"
+          "title": "Combat & Mutations",
+          "description": "Combat mechanics, mutation tiers, and weapon rankings for surviving the Anomaly Zones.",
+          "href": "/mechanics/anomalith-combat"
         },
         {
           "badge": "New",
-          "title": "Enemies & Monsters",
-          "description": "23 enemy types across 5 regions drops, locations, and farming tips.",
-          "href": "/enemies"
+          "title": "Characters & Full Cast",
+          "description": "Reona Minazuki, the girl at the centre of the mystery, and the Bleicher Geist.",
+          "href": "/characters/anomalith-characters"
         },
         {
           "badge": "Popular",
-          "title": "Boss Locations & Drops",
-          "description": "Every boss location, drop table, and respawn timer in one reference.",
-          "href": "/boss-locations-drops-respawn-times"
+          "title": "Boss Fight Guide",
+          "description": "Phase breakdowns and attack patterns for the Operating Room boss encounter.",
+          "href": "/guide/anomalith-boss-fight"
         },
         {
           "badge": "Popular",
-          "title": "Best Builds",
-          "description": "Optimal stat allocation, skill tree picks, and Charm combos for every playstyle.",
-          "href": "/builds/best-builds"
+          "title": "Hard Mode Guide",
+          "description": "The MP economy, enemy behaviour, and parry windows that keep a Hard Mode run alive.",
+          "href": "/mechanics/anomalith-hard-mode"
         },
         {
           "badge": "New",
-          "title": "Shikai Tier List",
-          "description": "All 6 Shinigami Shikai types ranked by PvP and PvE performance.",
-          "href": "/tier-list/shikai"
+          "title": "Official Trailer Breakdown",
+          "description": "Gameplay, release date, and story details pulled from the official ANOMALITH trailer.",
+          "href": "/media/anomalith-official-trailer"
         },
         {
           "badge": "New",
-          "title": "World Events Guide",
-          "description": "Supply Caches, Raids, and endgame world events with rare rewards.",
-          "href": "/world-events"
+          "title": "Community Hub",
+          "description": "Where ANOMALITH players compare demo feedback, tips, and early discoveries.",
+          "href": "/community/anomalith-reddit"
         }
       ]
     },
@@ -421,7 +430,30 @@
       "secondary": "Wishlist on Steam"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "ANOMALITH Guides & Walkthroughs",
+    "overviewDescription": "Step-by-step ANOMALITH guides covering the demo, the story, core gameplay systems, the first boss fight, and a full walkthrough of the Anomaly Zones."
+  },
+  "mechanics": {
+    "overviewTitle": "ANOMALITH Mechanics & Combat Systems",
+    "overviewDescription": "How ANOMALITH plays: third-person shooter combat, survival horror resource management, the anomalies themselves, liminal spaces, and Hard Mode."
+  },
+  "characters": {
+    "overviewTitle": "ANOMALITH Characters & Full Cast",
+    "overviewDescription": "Meet the ANOMALITH cast, including protagonist Reona Minazuki, the mysterious girl at the centre of the story, and the Bleicher Geist."
+  },
+  "release": {
+    "overviewTitle": "ANOMALITH Release Date & Platforms",
+    "overviewDescription": "ANOMALITH release date and platform details across PS5, Xbox, Steam, and Switch 2, plus demo availability and the Digital Deluxe and Limited Edition contents."
+  },
+  "media": {
+    "overviewTitle": "ANOMALITH Trailers & Gameplay Videos",
+    "overviewDescription": "Every official ANOMALITH trailer and gameplay video in one place, from the announcement and story trailers to the demo and system showcases."
+  },
+  "community": {
+    "overviewTitle": "ANOMALITH Community & Social Channels",
+    "overviewDescription": "Where ANOMALITH players gather: the Reddit community hub for demo feedback and tips, and the Twitter accounts worth following for update and creator news."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",

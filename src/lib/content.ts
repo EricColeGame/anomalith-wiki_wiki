@@ -235,41 +235,64 @@ export interface NavGroup {
   links: Array<{ label: string; href: string; badge?: string }>;
 }
 
-// 分组标题映射：slug → 人类可读标题（默认英文）
+// 分组标题映射：slug → 人类可读标题（默认英文）。
+// slug 必须与 NAVIGATION_CONFIG 的分类 slug、content/<locale>/ 下的目录名完全一致。
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
-  guide: "Getting Started",
-  "tier-list": "Tier Lists",
+  guide: "Guide",
+  mechanics: "Mechanics",
+  characters: "Characters",
+  release: "Release",
+  media: "Media",
+  community: "Community",
 };
 
 // 日文分组标题映射
 const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  guide: "ガイド",
+  mechanics: "ゲームシステム",
+  characters: "キャラクター",
+  release: "発売情報",
+  media: "映像",
+  community: "コミュニティ",
+};
+
+// 韩文分组标题映射
+const GROUP_TITLES_KO: Record<string, string> = {
+  guide: "가이드",
+  mechanics: "게임 시스템",
+  characters: "캐릭터",
+  release: "출시 정보",
+  media: "미디어",
+  community: "커뮤니티",
+};
+
+// 繁体中文分组标题映射
+const GROUP_TITLES_ZH_TW: Record<string, string> = {
+  guide: "攻略指南",
+  mechanics: "遊戲機制",
+  characters: "角色",
+  release: "發售資訊",
+  media: "影音",
+  community: "社群",
 };
 
 // locale → 分组标题映射
 const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
   ja: GROUP_TITLES_JA,
+  ko: GROUP_TITLES_KO,
+  "zh-tw": GROUP_TITLES_ZH_TW,
 };
 
 // locale → "Overview" 翻译
 const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
   ja: "一覧",
+  ko: "개요",
+  "zh-tw": "總覽",
 };
 
-// 分组排序顺序
+// 分组排序顺序（与 NAVIGATION_CONFIG 的导航顺序保持一致）
 const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
+  "guide", "mechanics", "characters", "release", "media", "community",
 ];
 
 /**
