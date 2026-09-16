@@ -1,9 +1,20 @@
 import { getRequestConfig } from "next-intl/server";
 import { hasLocale } from "next-intl";
-import { routing } from "./routing";
+import { routing, type Locale } from "./routing";
 import en from "@/locales/en.json";
+import ja from "@/locales/ja.json";
+import ko from "@/locales/ko.json";
+import zhTw from "@/locales/zh-tw.json";
 
 type Messages = typeof en;
+
+// 语言包映射表：键名必须与 routing.locales 完全一致。
+const messagesMap: Record<Locale, Partial<Messages>> = {
+  "en": en,
+  "ja": ja,
+  "ko": ko,
+  "zh-tw": zhTw,
+};
 
 function deepMerge<T>(base: T, override: Partial<T>): T {
   if (
@@ -34,20 +45,11 @@ function deepMerge<T>(base: T, override: Partial<T>): T {
 export default getRequestConfig(async ({ requestLocale }) => {
   const requested = await requestLocale;
   const locale = hasLocale(routing.locales, requested)
-    ? requested
-    : routing.defaultLocale;
+    ? (requested as Locale)
+    : (routing.defaultLocale as Locale);
 
-  let localeMessages: Partial<Messages> = {};
-  if (locale !== "en") {
-    try {
-      const imported = await import(`@/locales/${locale}.json`);
-      localeMessages = imported.default || imported;
-    } catch {
-      // Fallback cleanly to en if locale json doesn't exist yet
-      localeMessages = {};
-    }
-  }
-
+  // 非英语语言包暂为空对象，deepMerge 后自动回退到 en 文案。
+  const localeMessages = messagesMap[locale] || {};
   const messages = deepMerge(en, localeMessages);
   return { locale, messages };
 });
