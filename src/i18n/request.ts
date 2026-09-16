@@ -48,7 +48,8 @@ export default getRequestConfig(async ({ requestLocale }) => {
     ? (requested as Locale)
     : (routing.defaultLocale as Locale);
 
-  // 非英语语言包暂为空对象，deepMerge 后自动回退到 en 文案。
+  // 各语言包已按 en.json 的键结构完整翻译；deepMerge 仍保留英文兜底，
+  // 以便某个语言漏翻个别键时回退到英文而不是渲染出空字符串或键名。
   const localeMessages = messagesMap[locale] || {};
   const messages = deepMerge(en, localeMessages);
   return { locale, messages };

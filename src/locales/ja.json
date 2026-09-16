@@ -1,1 +1,537 @@
-{}
+{
+  "site": {
+    "name": "ANOMALITH Wiki",
+    "shortName": "ANOMALITH",
+    "tagline": "攻略・武器・スキル・アノマリーゾーン完全ガイド",
+    "description": "ANOMALITH の総合攻略ガイド！ゲームプレイ攻略、武器とスキル、アノマリーゾーンの踏破手順、ストーリーとキャラクター、体験版と発売情報をまとめて解説します。",
+    "legalNotice": "非公式のファンウィキです。プレイヤーがプレイヤーのために作っています。"
+  },
+  "nav": {
+    "guide": "攻略",
+    "mechanics": "システム",
+    "characters": "キャラクター",
+    "release": "発売情報",
+    "media": "動画",
+    "community": "コミュニティ",
+    "menu": "メニュー",
+    "toggleTheme": "テーマを切り替える"
+  },
+  "home": {
+    "meta": {
+      "title": "ANOMALITH Wiki - スキル・武器・攻略ガイド",
+      "description": "ANOMALITH Wiki では、ゲームプレイ攻略、武器の詳細、アノマリー探索のコツ、キャラクター情報、最新アップデートなど、プレイヤーに必要な情報を網羅して紹介しています。"
+    },
+    "hero": {
+      "eyebrow": "サバイバル・アノマリー・ホラー・アクションアドベンチャー",
+      "title": "ANOMALITH Wiki",
+      "description": "ANOMALITH は、謎に包まれたアノマリーゾーンを探索し、危険な生物と戦い、武器をカスタマイズしながら、歪んだ世界の裏に隠された秘密を解き明かしていくサバイバルアクションアドベンチャーです。",
+      "stats": [
+        "Steam · PS5 · Switch 2",
+        "スキル12種",
+        "アクションアドベンチャー",
+        "2026年発売"
+      ],
+      "primaryCta": "攻略チャート",
+      "secondaryCta": "戦闘とシステム",
+      "tertiaryCta": "発売日と対応機種",
+      "videoLabel": "公式トレーラー"
+    },
+    "updates": {
+      "title": "最新アップデート",
+      "browse": "すべての攻略を見る",
+      "viewAll": "すべて表示"
+    },
+    "start": {
+      "eyebrow": "はじめに",
+      "title": "ANOMALITH を始めよう",
+      "cards": [
+        {
+          "number": "1",
+          "title": "初心者ガイド",
+          "description": "ダイブ・回収・帰還のループを学び、キャリブレーションのプロローグを終えて、最初のアノマリーゾーンから生きて帰還しましょう。"
+        },
+        {
+          "number": "2",
+          "title": "戦闘の基礎",
+          "description": "アノマリーの攻撃パターンを見切り、不安定エンジンを制御下に置き、ボスのフェーズ移行を耐え切れる装備を組み立てましょう。"
+        },
+        {
+          "number": "3",
+          "title": "スキルと武器強化",
+          "description": "アノマライゼーションスキルの選択とワークショップでの武器強化を計画し、持ち帰った異常素材を正しいビルドに投資しましょう。"
+        },
+        {
+          "number": "4",
+          "title": "素材集めと戦利品稼ぎ",
+          "description": "異常素材を効率よく集めるダイブルートを組み、所持品を整理して、難易度が跳ね上がる前に予備装備を蓄えましょう。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "人気ページ",
+      "title": "いま読まれている記事",
+      "quickLinks": [
+        "アノマリーゾーン",
+        "戦闘の基礎",
+        "ボス戦",
+        "体験版ガイド"
+      ],
+      "cards": [
+        {
+          "badge": "初心者向け",
+          "title": "攻略チャート",
+          "description": "パズル、戦闘、探索、各プラットフォームの設定までを網羅した総合攻略ガイド。",
+          "href": "/guide/anomalith-walkthrough"
+        },
+        {
+          "badge": "更新済み",
+          "title": "体験版ガイド",
+          "description": "体験版の遊び方、収録されているゲームプレイのループ、必要な PC スペックを解説します。",
+          "href": "/release/anomalith-demo"
+        },
+        {
+          "badge": "更新済み",
+          "title": "発売日と対応機種",
+          "description": "確定した発売日と、PS5・Xbox・Steam・Switch 2 の情報を一か所にまとめました。",
+          "href": "/release/anomalith-release-date"
+        },
+        {
+          "badge": "人気",
+          "title": "戦闘とミューテーション",
+          "description": "アノマリーゾーンを生き延びるための戦闘システム、ミューテーション段階、武器ランキング。",
+          "href": "/mechanics/anomalith-combat"
+        },
+        {
+          "badge": "新着",
+          "title": "キャラクターと全登場人物",
+          "description": "謎の中心にいる少女・水無月レオナと、ブライヒャー・ガイスト。",
+          "href": "/characters/anomalith-characters"
+        },
+        {
+          "badge": "人気",
+          "title": "ボス戦攻略",
+          "description": "手術室でのボス戦におけるフェーズごとの攻略と攻撃パターンを解説します。",
+          "href": "/guide/anomalith-boss-fight"
+        },
+        {
+          "badge": "人気",
+          "title": "ハードモード攻略",
+          "description": "ハードモード攻略を支える MP 管理、敵の挙動、パリィの猶予をまとめました。",
+          "href": "/mechanics/anomalith-hard-mode"
+        },
+        {
+          "badge": "新着",
+          "title": "公式トレーラー解説",
+          "description": "ANOMALITH 公式トレーラーから読み取れるゲームプレイ、発売日、ストーリー情報。",
+          "href": "/media/anomalith-official-trailer"
+        },
+        {
+          "badge": "新着",
+          "title": "コミュニティハブ",
+          "description": "ANOMALITH のプレイヤーが体験版の感想やコツ、早期の発見を共有する場所です。",
+          "href": "/community/anomalith-reddit"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "ANOMALITH とは？",
+      "paragraphs": [
+        "ANOMALITH は、フリュー株式会社が開発・発売するサイコロジカル・サバイバルアクションゲームです。プレイヤーは17歳の水無月レオナとなり、現実を歪めるアノマリーゾーンへダイブして異常素材を回収し、崩壊した昭和の日本で失踪した友人の身に何が起きたのかを追い求めます。",
+        "探索は毎回同じ3段階のループで進みます。封鎖区域へダイブし、持ち帰れるだけの物資を回収し、アノマリーに囲まれる前に帰還する。ダイブとダイブの間には、ワークショップで回収した素材を武器の強化や装備、アノマライゼーションスキルに変換し、不安定エンジンで安定性と引き換えに生体火力を手に入れます。当ウィキでは攻略チャート、データ表、ボス解説、手順別ガイドでシステム全体を扱っています。"
+      ],
+      "stats": [
+        {
+          "label": "開発",
+          "value": "フリュー株式会社"
+        },
+        {
+          "label": "ジャンル",
+          "value": "サバイバルアクションアドベンチャー"
+        },
+        {
+          "label": "対応機種",
+          "value": "PC · PS5 · Switch 2"
+        },
+        {
+          "label": "発売日",
+          "value": "2026年10月28日"
+        },
+        {
+          "label": "シナリオ",
+          "value": "田中ロミオ"
+        },
+        {
+          "label": "コアループ",
+          "value": "ダイブ・回収・帰還"
+        }
+      ],
+      "cta": "すべての攻略を見る"
+    },
+    "explore": {
+      "title": "ANOMALITH Wiki を探索する",
+      "description": "ANOMALITH のあらゆるシステムを一か所に。ゲームプレイ攻略、ストーリーとキャラクターの設定、武器とスキルのビルド、体験版と発売情報、コミュニティ、そしてプレイヤーが最も知りたい疑問への答えをまとめています。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "ANOMALITH ゲームプレイガイド",
+          "description": "ANOMALITH の核となるゲームプレイのループを解説します。封鎖されたアノマリーゾーンの探索、サードパーソン戦闘、調査の仕組み、そして新規プレイヤーに必要な操作をまとめました。",
+          "href": "/guide/anomalith-gameplay",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "封鎖区域に入り、動き出す前にミッションの内容を確認しましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "アノマリーは射撃を小刻みに区切りながら排除し、退路を常に想定しておきましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "倒した敵や目印のあるコンテナから異常素材を回収しましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "不安定エンジンの数値を注視し、ミューテーションが進む前に冷却しましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "戦利品はワークショップに預け、ダイブの合間に武器を強化しましょう。"
+            },
+            {
+              "label": "6",
+              "detail": "回収した物資をすべて持ち帰り、帰還ポイントまでたどり着きましょう。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "ANOMALITH ストーリーとキャラクター",
+          "description": "田中ロミオが手がけた心理的な物語の背景にある、ANOMALITH の世界観、プロット、主要キャスト、アノマリーゾーンの設定をまとめました。",
+          "href": "/characters/anomalith-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "レオナ",
+              "detail": "失踪した友人を探す17歳の主人公・水無月レオナ。"
+            },
+            {
+              "label": "ファイル8",
+              "detail": "アノマリーゾーンで発見された、ファイル番号00000-08として記録された無口な少女。"
+            },
+            {
+              "label": "ガイスト",
+              "detail": "フェーズ移行と瞬間火力を軸に組み立てられた異形のアーキタイプ、ブライヒャー・ガイスト。"
+            },
+            {
+              "label": "登場人物",
+              "detail": "勢力ごとの役割と日本語声優陣を含む、キャラクターの全一覧。"
+            },
+            {
+              "label": "シナリオ",
+              "detail": "本作の心理的な物語を執筆した田中ロミオによるシナリオ。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "ANOMALITH 武器とスキルガイド",
+          "description": "銃器、ワークショップでの武器強化、アノマライゼーションスキル、装備ビルドをランキング形式で整理し、持ち帰った素材をどこに使うべきかが分かります。",
+          "href": "/mechanics/anomalith-combat",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "ハードモードの区域を単独で切り抜けられる最上位の武器とスキル。"
+            },
+            {
+              "label": "A",
+              "detail": "弾薬効率に余裕のある、汎用性の高いライフルとミューテーションスキル。"
+            },
+            {
+              "label": "B",
+              "detail": "素材を貯めている間に序盤の区域を突破できる初期装備。"
+            },
+            {
+              "label": "C",
+              "detail": "専用ビルドの中でだけ真価を発揮する状況依存の装備。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "ANOMALITH 初心者ガイド",
+          "description": "ANOMALITH の体験版と製品版の序盤に向けたアドバイス。探索ルート、資源管理、戦闘での注意点、序盤の進め方をまとめました。",
+          "href": "/guide/anomalith-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "アウェイクニングのプロローグを終わらせて、ダイブとワークショップを解放しましょう。"
+            },
+            {
+              "label": "2",
+              "detail": "最初の素材は散らさず、1つの武器に集中して注ぎ込みましょう。"
+            },
+            {
+              "label": "3",
+              "detail": "アノマリーが近づく前に鳴る音の合図を覚えましょう。"
+            },
+            {
+              "label": "4",
+              "detail": "正気度と不安定を回復するアイテムは、どの区域にも必ず持って行きましょう。"
+            },
+            {
+              "label": "5",
+              "detail": "区域のアノマリーを一掃したら、取り逃した強化のために戻りましょう。"
+            },
+            {
+              "label": "6",
+              "detail": "第3章のテンポラルコア攻略の前に、2つ目の装備構成を用意しましょう。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "ANOMALITH 体験版と発売ガイド",
+          "description": "ANOMALITH の体験版の入手方法、収録内容、2026年10月28日の発売日、機種ごとの違い、購入先をまとめました。",
+          "href": "/release/anomalith-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "10/28",
+              "detail": "ANOMALITH は2026年10月28日に世界同時発売されます。"
+            },
+            {
+              "label": "体験版",
+              "detail": "無料の体験版では、序盤の区域とワークショップを遊べます。"
+            },
+            {
+              "label": "対応機種",
+              "detail": "Steam 版 PC、PlayStation 5、Nintendo Switch 2 で、コントローラーにも対応します。"
+            },
+            {
+              "label": "エディション",
+              "detail": "通常版とデジタルデラックス版があり、早期購入特典の期間が設けられています。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "ANOMALITH アップデートとニュース",
+          "description": "ANOMALITH の公式発表、体験版に関するイベント、バージョンアップ、フリュー開発チームが公開した情報をまとめています。",
+          "href": "/release/anomalith-demo",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "トレーラー",
+              "detail": "アナウンストレーラー、ストーリートレーラー、システム紹介、ゲームプレイ映像を時系列で。"
+            },
+            {
+              "label": "体験版",
+              "detail": "無料の体験版に含まれる内容と、製品版へのつながり方を解説します。"
+            },
+            {
+              "label": "エディション",
+              "detail": "通常版とデジタルデラックス版の内容を並べて比較します。"
+            },
+            {
+              "label": "更新情報",
+              "detail": "公式発表、体験版イベント、バージョンアップを公開順に掲載します。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "ANOMALITH コミュニティと公式リンク",
+          "description": "ANOMALITH の公式コミュニティチャンネル。Steam コミュニティハブ、フリュー公式の SNS アカウント、公式 Discord サーバーをまとめました。",
+          "href": "/community/anomalith-twitter",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "X",
+              "detail": "ANOMALITH の新情報や発売日は、フリュー公式アカウントをフォローして確認しましょう。"
+            },
+            {
+              "label": "Discord",
+              "detail": "公式 ANOMALITH Discord に参加して、ルートの発見やボスのコツを共有しましょう。"
+            },
+            {
+              "label": "Reddit",
+              "detail": "プレイヤーが体験版で何を検証し、どのビルドを信頼しているかを覗いてみましょう。"
+            },
+            {
+              "label": "Steam",
+              "detail": "発表、スクリーンショット、議論が集まる Steam コミュニティハブ。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "ANOMALITH よくある質問",
+          "description": "ANOMALITH についてよく寄せられる疑問に回答します。対応機種、発売日、マルチプレイの有無、体験版のセーブデータ、動作環境など。",
+          "href": "/guide/anomalith-demo-review",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "発売",
+              "detail": "2026年10月28日、PC・PlayStation 5・Nintendo Switch 2 で発売。"
+            },
+            {
+              "label": "協力プレイ",
+              "detail": "ANOMALITH はシングルプレイのストーリー体験で、協力プレイモードはありません。"
+            },
+            {
+              "label": "体験版",
+              "detail": "無料の体験版では、製品版につながる序盤の区域を遊べます。"
+            },
+            {
+              "label": "動作環境",
+              "detail": "公式の PC 動作環境と、各コンソールの目標性能をまとめています。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "よくある質問",
+      "description": "対応機種や発売時期から、体験版、戦闘、ボス対策まで、ANOMALITH のプレイヤーが最も多く抱く疑問に手短にお答えします。",
+      "items": [
+        {
+          "question": "ANOMALITH とはどんなゲームですか？",
+          "answer": "ANOMALITH はフリュー株式会社のサイコロジカル・サバイバルアクションゲームです。プレイヤーは17歳の水無月レオナとなり、現実を歪めるアノマリーゾーンへダイブして異常素材を回収し、失踪した友人の身に何が起きたのかを突き止めていきます。"
+        },
+        {
+          "question": "ANOMALITH の発売日と対応機種は？",
+          "answer": "ANOMALITH は2026年10月28日に、Steam 版 PC、PlayStation 5、Nintendo Switch 2 向けに発売され、コントローラーにも完全対応します。早期購入特典の期間は2026年10月29日から11月11日まで（日本時間）です。"
+        },
+        {
+          "question": "ANOMALITH に体験版はありますか？",
+          "answer": "はい。無料の ANOMALITH 体験版は Steam のストアページからダウンロードでき、序盤の区域、ダイブ・回収・帰還のループ、ワークショップでのクラフトを遊べるほか、公式の PC 動作環境を確認するのにも役立ちます。"
+        },
+        {
+          "question": "体験版のデータは製品版に引き継げますか？",
+          "answer": "ANOMALITH の体験版は序盤の区域を切り出した独立した内容です。一方、予約特典やデジタルデラックス版の特典アイテムは、製品版でワークショップと射撃訓練場を解放した時点でプロフィールに付与されます。"
+        },
+        {
+          "question": "ANOMALITH はマルチプレイや協力プレイに対応していますか？",
+          "answer": "いいえ。ANOMALITH はソロでの資源管理、雰囲気のある探索、物語の謎解きに焦点を当てた、シングルプレイのストーリー主導型サバイバル体験として設計されています。"
+        },
+        {
+          "question": "ANOMALITH のボス戦はどう備えればいいですか？",
+          "answer": "ワークショップで強化した武器を携え、手術室の戦いに備えて正気度回復アイテムを持ち込み、3つのフェーズを覚えておきましょう。計算されたメス、空中からの奇襲、そして体力35%以下で始まる捨て身の猛攻です。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "ANOMALITH を極める準備はできましたか？",
+      "description": "最初のアノマリーゾーンから、歪みの裏に隠された秘密まで。当コミュニティウィキが無料で最新の攻略情報をお届けします。",
+      "primary": "攻略チャートを読む",
+      "secondary": "Steam でウィッシュリストに追加"
+    }
+  },
+  "guide": {
+    "overviewTitle": "ANOMALITH 攻略・チャート一覧",
+    "overviewDescription": "体験版、ストーリー、主要なゲームプレイシステム、最初のボス戦、そしてアノマリーゾーンの完全攻略まで、手順を追って解説する ANOMALITH 攻略ガイドです。"
+  },
+  "mechanics": {
+    "overviewTitle": "ANOMALITH システムと戦闘",
+    "overviewDescription": "ANOMALITH の遊び方を解説します。サードパーソンシューティングの戦闘、サバイバルホラー的な資源管理、アノマリーそのもの、リミナルスペース、そしてハードモードまで。"
+  },
+  "characters": {
+    "overviewTitle": "ANOMALITH キャラクターと全登場人物",
+    "overviewDescription": "主人公の水無月レオナ、物語の中心にいる謎の少女、ブライヒャー・ガイストなど、ANOMALITH の登場人物を紹介します。"
+  },
+  "release": {
+    "overviewTitle": "ANOMALITH 発売日と対応機種",
+    "overviewDescription": "PS5、Xbox、Steam、Switch 2 それぞれの ANOMALITH 発売日と対応機種の詳細に加え、体験版の配信状況、デジタルデラックス版と限定版の内容をまとめました。"
+  },
+  "media": {
+    "overviewTitle": "ANOMALITH トレーラーとゲームプレイ動画",
+    "overviewDescription": "アナウンストレーラーやストーリートレーラーから、体験版やシステム紹介まで、ANOMALITH の公式トレーラーとゲームプレイ動画を一か所にまとめました。"
+  },
+  "community": {
+    "overviewTitle": "ANOMALITH コミュニティと公式チャンネル",
+    "overviewDescription": "ANOMALITH のプレイヤーが集まる場所。体験版の感想やコツが交わされる Reddit コミュニティと、更新情報やクリエイターの話題を追うならフォローしておきたい X アカウントを紹介します。"
+  },
+  "legalPages": {
+    "about": {
+      "title": "このサイトについて",
+      "metaDescription": "ANOMALITH Wiki は、ゲームプレイと戦闘の攻略、武器とスキル、アノマリーゾーンの踏破、キャラクター、ストーリー、発売情報を扱う非公式のファン制作ガイドハブです。",
+      "paragraphs": [
+        "ANOMALITH Wiki は、ゲームプレイと戦闘の攻略、武器とスキル、アノマリーゾーンの踏破、キャラクター、ストーリー、発売情報を扱う非公式のファン制作ガイドハブです。初心者からベテランまで、すべてのプレイヤーの役に立つ情報を掲載しています。",
+        "記事はプレイヤーのために書かれており、フリュー株式会社が新情報を公開するたびに更新しています。"
+      ]
+    },
+    "privacyPolicy": {
+      "title": "プライバシーポリシー",
+      "metaDescription": "ANOMALITH Wiki が技術情報、アクセス解析、広告、外部リンクをどのように扱うかを説明します。",
+      "paragraphs": [
+        "当ファンウィキは ANOMALITH の攻略情報を提供するサイトです。アカウントの認証情報、Steam のパスワード、非公開の支払い情報をお尋ねすることはありません。",
+        "基本的なアクセス解析、広告、ホスティングの各サービスが、端末の種類、ブラウザ、おおよその地域、閲覧したページといった一般的な技術情報を処理する場合があります。",
+        "外部リンクから Steam、Discord、YouTube、各種コミュニティツールへ移動する場合があります。これらのサービスには、それぞれのプライバシーポリシーが適用されます。"
+      ]
+    },
+    "termsOfService": {
+      "title": "利用規約",
+      "metaDescription": "ANOMALITH Wiki のファン攻略サイトを利用する際に適用される規約です。",
+      "paragraphs": [
+        "当サイトは個人が運営する非公式のファン攻略ハブです。掲載内容は情報提供と娯楽のみを目的としています。",
+        "ゲームのシステム、コード、ドロップ、アップデートの内容は予告なく変更される場合があります。重要な情報は必ずゲーム内や公式チャンネルで確認してください。",
+        "当サイトを利用することで、不正利用や不正アクセスの試み、および当ファンウィキをフリュー株式会社の公式なものとして提示する行為を行わないことに同意したものとみなします。"
+      ]
+    },
+    "copyright": {
+      "title": "著作権について",
+      "metaDescription": "非公式ファンサイト ANOMALITH Wiki の著作権および商標に関する表記です。",
+      "paragraphs": [
+        "ANOMALITH、そのキービジュアル、ロゴ、関連メディアはフリュー株式会社およびそれぞれの権利者に帰属します。",
+        "当サイトは情報提供と攻略情報の提示を目的として作られた非公式のファンウィキです。",
+        "掲載されているコンテンツの権利をお持ちでご懸念がある場合は、確認のためサイト運営者までご連絡ください。"
+      ]
+    }
+  },
+  "notFound": {
+    "title": "ページが見つかりません",
+    "description": "お探しのガイドは移動したか、まだ追加されていない可能性があります。",
+    "cta": "すべての攻略を見る"
+  },
+  "shared": {
+    "wikiNavigation": "ウィキ内ナビ",
+    "activeCodes": "有効なコード",
+    "updated": "更新",
+    "viewAllCodes": "すべてのコードを見る",
+    "inThisSection": "このセクションの内容",
+    "tableOfContents": "目次",
+    "nextSteps": "次のステップ",
+    "needHelp": "お困りですか？",
+    "relatedReading": "関連記事",
+    "relatedGuides": "関連ガイド",
+    "readMore": "続きを読む",
+    "officialMedia": "公式メディア",
+    "home": "ホーム",
+    "noGuidesAvailable": "まだガイドがありません。しばらくしてからもう一度ご確認ください。",
+    "playOnSteam": "Steam でウィッシュリストに追加"
+  },
+  "footer": {
+    "aboutTitle": "ANOMALITH Wiki",
+    "about": "ANOMALITH Wiki は、ゲームプレイと戦闘の攻略、武器とスキル、アノマリーゾーンの踏破、キャラクター、ストーリー、発売情報を扱う非公式のファン制作ガイドハブです。初心者からベテランまで、すべてのプレイヤーに役立つ情報を掲載しています。",
+    "quickLinks": "クイックリンク",
+    "guides": "攻略",
+    "legal": "法的事項",
+    "copyright": "2026 ANOMALITH Wiki. フリュー株式会社とは関係ありません。",
+    "description": "サバイバルアクションアドベンチャー。アノマリーゾーンを探索し、生物と戦い、武器をカスタマイズし、歪んだ世界の真実を暴こう。",
+    "playGame": "Steam で ANOMALITH をウィッシュリストに追加",
+    "officialWebsite": "公式サイト",
+    "officialDiscord": "公式 Discord",
+    "officialYoutube": "公式 YouTube",
+    "officialTwitter": "公式 X（Twitter）",
+    "walkthrough": "攻略チャート",
+    "gameplayGuide": "ゲームプレイガイド",
+    "mechanics": "戦闘とシステム",
+    "characters": "キャラクターとストーリー",
+    "releaseInfo": "発売情報と対応機種",
+    "privacyPolicy": "プライバシーポリシー",
+    "termsOfService": "利用規約"
+  }
+}

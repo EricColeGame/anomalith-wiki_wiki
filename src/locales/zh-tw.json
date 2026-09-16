@@ -1,1 +1,537 @@
-{}
+{
+  "site": {
+    "name": "ANOMALITH Wiki",
+    "shortName": "ANOMALITH",
+    "tagline": "攻略、武器、技能與異常區域完全指南",
+    "description": "ANOMALITH 終極攻略指南！收錄遊戲玩法攻略、武器與技能、異常區域通關流程、故事與角色，以及試玩版與發售資訊。",
+    "legalNotice": "非官方粉絲維基，由玩家為玩家打造。"
+  },
+  "nav": {
+    "guide": "攻略",
+    "mechanics": "系統",
+    "characters": "角色",
+    "release": "發售資訊",
+    "media": "影音",
+    "community": "社群",
+    "menu": "選單",
+    "toggleTheme": "切換主題"
+  },
+  "home": {
+    "meta": {
+      "title": "ANOMALITH Wiki - 技能、武器與攻略指南",
+      "description": "在 ANOMALITH Wiki 中探索遊戲玩法攻略、武器詳細資訊、異常區域探索技巧、角色情報與最新更新，玩家需要的一切都在這裡。"
+    },
+    "hero": {
+      "eyebrow": "生存、異常、恐怖動作冒險",
+      "title": "ANOMALITH Wiki",
+      "description": "ANOMALITH 是一款生存動作冒險遊戲，玩家將探索神祕的異常區域、對抗危險生物、改裝武器，並揭開扭曲世界背後隱藏的秘密。",
+      "stats": [
+        "Steam · PS5 · Switch 2",
+        "12 種技能",
+        "動作冒險",
+        "2026 年發售"
+      ],
+      "primaryCta": "完整攻略",
+      "secondaryCta": "戰鬥與系統",
+      "tertiaryCta": "發售日與平台",
+      "videoLabel": "官方預告片"
+    },
+    "updates": {
+      "title": "最新更新",
+      "browse": "瀏覽所有攻略",
+      "viewAll": "檢視全部"
+    },
+    "start": {
+      "eyebrow": "從這裡開始",
+      "title": "展開你的 ANOMALITH 旅程",
+      "cards": [
+        {
+          "number": "1",
+          "title": "新手指南",
+          "description": "學會「深潛、回收、撤離」循環，完成校準序章，並從第一個異常區域活著撤離。"
+        },
+        {
+          "number": "2",
+          "title": "戰鬥基礎",
+          "description": "讀懂異常體的攻擊模式，把不穩定引擎控制在安全範圍，並打造能撐過首領階段轉換的裝備。"
+        },
+        {
+          "number": "3",
+          "title": "技能與武器強化",
+          "description": "規劃異常化技能選擇與工坊武器強化，讓每一份帶回來的異常材料都投注在正確的流派上。"
+        },
+        {
+          "number": "4",
+          "title": "資源與戰利品養成",
+          "description": "規劃高效率的深潛路線蒐集異常材料，精簡背包管理，並在難度陡升之前先囤好備用裝備。"
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "熱門頁面",
+      "title": "現在最多人看",
+      "quickLinks": [
+        "異常區域",
+        "戰鬥基礎",
+        "首領戰",
+        "試玩版指南"
+      ],
+      "cards": [
+        {
+          "badge": "新手",
+          "title": "完整攻略",
+          "description": "涵蓋解謎、戰鬥、探索與各平台設定的完整策略指南。",
+          "href": "/guide/anomalith-walkthrough"
+        },
+        {
+          "badge": "已更新",
+          "title": "試玩版指南",
+          "description": "試玩版怎麼玩、收錄了哪些遊戲循環，以及需要的 PC 規格。",
+          "href": "/release/anomalith-demo"
+        },
+        {
+          "badge": "已更新",
+          "title": "發售日與平台",
+          "description": "確認的發售日期，以及 PS5、Xbox、Steam 與 Switch 2 資訊一次看完。",
+          "href": "/release/anomalith-release-date"
+        },
+        {
+          "badge": "熱門",
+          "title": "戰鬥與變異",
+          "description": "在異常區域存活所需的戰鬥系統、變異階級與武器排名。",
+          "href": "/mechanics/anomalith-combat"
+        },
+        {
+          "badge": "最新",
+          "title": "角色與全體陣容",
+          "description": "身處謎團中心的水無月玲央奈，以及布萊希爾・蓋斯特。",
+          "href": "/characters/anomalith-characters"
+        },
+        {
+          "badge": "熱門",
+          "title": "首領戰攻略",
+          "description": "手術室首領戰的階段拆解與攻擊模式。",
+          "href": "/guide/anomalith-boss-fight"
+        },
+        {
+          "badge": "熱門",
+          "title": "硬核模式指南",
+          "description": "讓硬核模式續命下去的 MP 經濟、敵人行為與格擋時機。",
+          "href": "/mechanics/anomalith-hard-mode"
+        },
+        {
+          "badge": "最新",
+          "title": "官方預告片解析",
+          "description": "從 ANOMALITH 官方預告片中整理出的玩法、發售日與故事情報。",
+          "href": "/media/anomalith-official-trailer"
+        },
+        {
+          "badge": "最新",
+          "title": "社群中心",
+          "description": "ANOMALITH 玩家交流試玩版心得、技巧與早期發現的地方。",
+          "href": "/community/anomalith-reddit"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "ANOMALITH 是什麼？",
+      "paragraphs": [
+        "ANOMALITH 是 FURYU Corporation 開發發行的心理生存動作遊戲。玩家將扮演 17 歲的水無月玲央奈，深潛進入扭曲現實的異常區域回收異常材料，並在化為廢墟的昭和日本追查失蹤好友的遭遇。",
+        "每次出擊都遵循同樣的三階段循環：深潛進入封鎖區域、盡可能回收物資，並在異常體包圍之前撤離回到撤離點。出擊之間，工坊會把回收的材料轉換成武器強化、裝備與異常化技能，不穩定引擎則以穩定性換取生物火力。我們的維基以攻略流程、數據表格、首領解析與逐步指南涵蓋整套系統。"
+      ],
+      "stats": [
+        {
+          "label": "開發商",
+          "value": "FURYU Corporation"
+        },
+        {
+          "label": "類型",
+          "value": "生存動作冒險"
+        },
+        {
+          "label": "平台",
+          "value": "PC · PS5 · Switch 2"
+        },
+        {
+          "label": "發售日",
+          "value": "2026 年 10 月 28 日"
+        },
+        {
+          "label": "劇本",
+          "value": "田中羅密歐"
+        },
+        {
+          "label": "核心循環",
+          "value": "深潛 · 回收 · 撤離"
+        }
+      ],
+      "cta": "瀏覽所有攻略"
+    },
+    "explore": {
+      "title": "探索 ANOMALITH Wiki",
+      "description": "ANOMALITH 的所有系統一次到位：遊戲玩法攻略、故事與角色設定、武器與技能流派、試玩版與發售資訊、社群據點，以及玩家最常提出的問題解答。",
+      "modules": [
+        {
+          "order": 1,
+          "name": "ANOMALITH 遊戲玩法指南",
+          "description": "拆解 ANOMALITH 的核心遊戲循環：探索封鎖的異常區域、第三人稱戰鬥、調查機制，以及新手必備的操作觀念。",
+          "href": "/guide/anomalith-gameplay",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "進入封鎖區域後，先確認任務條件再開始行動。"
+            },
+            {
+              "label": "2",
+              "detail": "以點放火力清除異常體，並隨時保留一條撤退路線。"
+            },
+            {
+              "label": "3",
+              "detail": "從倒下的敵人和標記過的容器上回收異常材料。"
+            },
+            {
+              "label": "4",
+              "detail": "盯緊不穩定引擎，在變異失控之前先降溫。"
+            },
+            {
+              "label": "5",
+              "detail": "把戰利品存進工坊，在兩次深潛之間強化武器。"
+            },
+            {
+              "label": "6",
+              "detail": "抵達撤離點，把回收到的物資全部帶回來。"
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "ANOMALITH 故事與角色",
+          "description": "由田中羅密歐執筆的心理敘事背後，ANOMALITH 的世界觀、劇情背景、主要陣容與異常區域設定。",
+          "href": "/characters/anomalith-characters",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "玲央奈",
+              "detail": "17 歲的主角水無月玲央奈，正在尋找失蹤的好友。"
+            },
+            {
+              "label": "檔案 8",
+              "detail": "在異常區域中被發現、編號 00000-08 的沉默少女。"
+            },
+            {
+              "label": "蓋斯特",
+              "detail": "以階段轉換與爆發傷害為核心的異形原型「布萊希爾・蓋斯特」。"
+            },
+            {
+              "label": "陣容",
+              "detail": "包含陣營定位與日語聲優名單的完整角色清單。"
+            },
+            {
+              "label": "編劇",
+              "detail": "由田中羅密歐執筆、構成本作心理敘事的劇本。"
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "ANOMALITH 武器與技能指南",
+          "description": "槍械、工坊武器強化、異常化技能與裝備流派排名，讓你清楚知道帶回來的材料該花在哪裡。",
+          "href": "/mechanics/anomalith-combat",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "單靠自己就能撐起硬核模式區域的頂級武器與技能。"
+            },
+            {
+              "label": "A",
+              "detail": "彈藥經濟寬容、泛用性高的強勢步槍與變異技能。"
+            },
+            {
+              "label": "B",
+              "detail": "在囤材料的同時足以打通開局區域的起始裝備。"
+            },
+            {
+              "label": "C",
+              "detail": "只有在專門流派中才能發揮價值的場合型裝備。"
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "ANOMALITH 新手指南",
+          "description": "寫給 ANOMALITH 試玩版與正式版前期的建議：探索路線、資源管理、戰鬥注意事項與早期養成方向。",
+          "href": "/guide/anomalith-walkthrough",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "完成「覺醒」序章，解鎖深潛與工坊。"
+            },
+            {
+              "label": "2",
+              "detail": "把第一批材料集中投在一把武器上，而不是分散使用。"
+            },
+            {
+              "label": "3",
+              "detail": "記住異常體接近前會出現的音效提示。"
+            },
+            {
+              "label": "4",
+              "detail": "每次進入區域都要帶著理智與不穩定恢復道具。"
+            },
+            {
+              "label": "5",
+              "detail": "清空區域的異常體之後，回頭補收漏掉的強化。"
+            },
+            {
+              "label": "6",
+              "detail": "在第三章「時序核心」出擊之前，先準備好第二套裝備。"
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "ANOMALITH 試玩版與發售指南",
+          "description": "如何取得 ANOMALITH 試玩版、試玩內容涵蓋的範圍、2026 年 10 月 28 日發售日、各平台版本與購買通路。",
+          "href": "/release/anomalith-release-date",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "10/28",
+              "detail": "ANOMALITH 將於 2026 年 10 月 28 日在全球發售。"
+            },
+            {
+              "label": "試玩版",
+              "detail": "免費試玩版收錄開局區域與工坊。"
+            },
+            {
+              "label": "平台",
+              "detail": "Steam PC、PlayStation 5 與 Nintendo Switch 2，並支援控制器。"
+            },
+            {
+              "label": "版本",
+              "detail": "提供標準版與數位豪華版，並設有早鳥購買特典期間。"
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "ANOMALITH 更新與消息",
+          "description": "ANOMALITH 官方公告、試玩版活動、版本更新，以及 FURYU 開發團隊公開的資訊。",
+          "href": "/release/anomalith-demo",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "預告片",
+              "detail": "發表、故事、系統與玩法預告片，全部收在同一條時間軸上。"
+            },
+            {
+              "label": "試玩版",
+              "detail": "免費試玩版包含的內容，以及它如何銜接到正式版。"
+            },
+            {
+              "label": "版本",
+              "detail": "標準版與數位豪華版內容並列比較。"
+            },
+            {
+              "label": "更新",
+              "detail": "官方公告、試玩版活動與版本更新，依發布時間整理。"
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "ANOMALITH 社群與官方連結",
+          "description": "ANOMALITH 官方社群頻道：Steam 社群中心、FURYU 官方社群帳號，以及官方 Discord 伺服器。",
+          "href": "/community/anomalith-twitter",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "X",
+              "detail": "追蹤 FURYU 官方帳號，掌握 ANOMALITH 的新情報與時程。"
+            },
+            {
+              "label": "Discord",
+              "detail": "加入 ANOMALITH 官方 Discord，交流路線發現與首領技巧。"
+            },
+            {
+              "label": "Reddit",
+              "detail": "看看玩家在試玩版裡測試什麼，以及他們信任哪些流派。"
+            },
+            {
+              "label": "Steam",
+              "detail": "集結公告、截圖與討論的 Steam 社群中心。"
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "ANOMALITH 常見問題",
+          "description": "解答 ANOMALITH 最常見的疑問：平台、發售日、多人連線支援、試玩版存檔與系統需求。",
+          "href": "/guide/anomalith-demo-review",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "上市",
+              "detail": "2026 年 10 月 28 日於 PC、PlayStation 5 與 Nintendo Switch 2 推出。"
+            },
+            {
+              "label": "合作",
+              "detail": "ANOMALITH 是單人故事體驗，沒有合作模式。"
+            },
+            {
+              "label": "試玩",
+              "detail": "免費試玩版收錄正式版之前的開局區域。"
+            },
+            {
+              "label": "硬體",
+              "detail": "官方 PC 系統需求與各主機的效能目標。"
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "常見問題",
+      "description": "從平台與發售時間到試玩版、戰鬥與首領準備，快速回答 ANOMALITH 玩家最常提出的問題。",
+      "items": [
+        {
+          "question": "ANOMALITH 是什麼樣的遊戲？",
+          "answer": "ANOMALITH 是 FURYU Corporation 推出的心理生存動作遊戲。玩家扮演 17 歲的水無月玲央奈，深潛進入扭曲現實的異常區域回收異常材料，並追查失蹤好友的遭遇。"
+        },
+        {
+          "question": "ANOMALITH 何時發售？支援哪些平台？",
+          "answer": "ANOMALITH 將於 2026 年 10 月 28 日在 Steam PC、PlayStation 5 與 Nintendo Switch 2 發售，並完整支援控制器。早鳥購買特典期間為 2026 年 10 月 29 日至 11 月 11 日（日本時間）。"
+        },
+        {
+          "question": "ANOMALITH 有試玩版嗎？",
+          "answer": "有。免費的 ANOMALITH 試玩版可從 Steam 商店頁面下載，內容涵蓋開局區域、深潛／回收／撤離循環與工坊製作，也能用來對照官方 PC 系統需求。"
+        },
+        {
+          "question": "試玩版進度會延續到正式版嗎？",
+          "answer": "ANOMALITH 試玩版是切出開局區域的獨立內容；而預購與數位豪華版的特典道具，會在正式版解鎖工坊與射擊訓練場之後發放到你的個人檔案。"
+        },
+        {
+          "question": "ANOMALITH 支援多人或合作嗎？",
+          "answer": "沒有。ANOMALITH 是專為單人設計的故事導向生存體驗，聚焦在單人的資源管理、氛圍探索與敘事謎團。"
+        },
+        {
+          "question": "該如何準備 ANOMALITH 的首領戰？",
+          "answer": "帶著在工坊強化過的武器，為手術室戰鬥準備理智恢復道具，並熟悉三個階段：精算手術刀、空中突襲，以及血量低於 35% 後展開的拼命狂暴。"
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "準備好精通 ANOMALITH 了嗎？",
+      "description": "從第一個異常區域到扭曲背後的秘密，我們的社群維基以免費且持續更新的攻略陪你走完。",
+      "primary": "閱讀完整攻略",
+      "secondary": "在 Steam 加入願望清單"
+    }
+  },
+  "guide": {
+    "overviewTitle": "ANOMALITH 攻略與通關指南",
+    "overviewDescription": "逐步解說試玩版、故事、核心遊戲系統、首場首領戰，以及異常區域完整通關流程的 ANOMALITH 攻略。"
+  },
+  "mechanics": {
+    "overviewTitle": "ANOMALITH 系統與戰鬥",
+    "overviewDescription": "ANOMALITH 的玩法解析：第三人稱射擊戰鬥、生存恐怖式資源管理、異常體本身、過渡空間，以及硬核模式。"
+  },
+  "characters": {
+    "overviewTitle": "ANOMALITH 角色與全體陣容",
+    "overviewDescription": "認識 ANOMALITH 的登場角色，包括主角水無月玲央奈、身處故事中心的謎樣少女，以及布萊希爾・蓋斯特。"
+  },
+  "release": {
+    "overviewTitle": "ANOMALITH 發售日與平台",
+    "overviewDescription": "PS5、Xbox、Steam 與 Switch 2 各平台的 ANOMALITH 發售日與詳細資訊，外加試玩版供應狀況與數位豪華版、限定版內容。"
+  },
+  "media": {
+    "overviewTitle": "ANOMALITH 預告片與遊戲影片",
+    "overviewDescription": "從發表預告與故事預告，到試玩版與系統展示，所有官方 ANOMALITH 預告片與遊戲影片都在這裡。"
+  },
+  "community": {
+    "overviewTitle": "ANOMALITH 社群與官方頻道",
+    "overviewDescription": "ANOMALITH 玩家聚集的地方：交流試玩版心得與技巧的 Reddit 社群，以及值得追蹤更新與創作者消息的 X 帳號。"
+  },
+  "legalPages": {
+    "about": {
+      "title": "關於本站",
+      "metaDescription": "ANOMALITH Wiki 是獨立粉絲打造的攻略站，涵蓋玩法與戰鬥攻略、武器與技能、異常區域通關、角色、故事與發售資訊。",
+      "paragraphs": [
+        "ANOMALITH Wiki 是獨立粉絲打造的攻略站，涵蓋玩法與戰鬥攻略、武器與技能、異常區域通關、角色、故事與發售資訊，無論新手或老手都能找到實用的內容。",
+        "內容為玩家而寫，並會在 FURYU Corporation 公布新資訊時持續更新。"
+      ]
+    },
+    "privacyPolicy": {
+      "title": "隱私權政策",
+      "metaDescription": "ANOMALITH Wiki 如何處理技術資訊、流量分析、廣告與外部連結。",
+      "paragraphs": [
+        "本站是提供 ANOMALITH 遊戲資訊的粉絲維基，不會索取帳號憑證、Steam 密碼或私密付款資訊。",
+        "基礎流量分析、廣告與主機服務供應商可能會處理裝置類型、瀏覽器、概略地區與造訪頁面等一般技術資訊。",
+        "外部連結可能導向 Steam、Discord、YouTube 或社群工具，這些服務適用其各自的隱私權政策。"
+      ]
+    },
+    "termsOfService": {
+      "title": "服務條款",
+      "metaDescription": "使用 ANOMALITH Wiki 粉絲攻略站時適用的條款。",
+      "paragraphs": [
+        "本站是獨立製作的粉絲攻略站，內容僅供資訊與娛樂用途。",
+        "遊戲系統、代碼、掉落物與更新內容可能隨時變動，恕不另行通知。重要資訊請務必以遊戲內或官方管道為準。",
+        "使用本站即表示你同意不濫用本站、不嘗試未經授權的存取，也不將本站呈現為 FURYU Corporation 的官方資產。"
+      ]
+    },
+    "copyright": {
+      "title": "著作權聲明",
+      "metaDescription": "非官方粉絲站 ANOMALITH Wiki 的著作權與商標聲明。",
+      "paragraphs": [
+        "ANOMALITH 及其主視覺、標誌與相關媒體，均屬於 FURYU Corporation 及各自權利人所有。",
+        "本站是為提供資訊與攻略內容而建置的非官方粉絲維基。",
+        "若你擁有本站所顯示內容的權利並有任何疑慮，請聯繫站方營運者以便審視處理。"
+      ]
+    }
+  },
+  "notFound": {
+    "title": "找不到頁面",
+    "description": "你正在尋找的攻略可能已經搬移，或尚未新增。",
+    "cta": "瀏覽所有攻略"
+  },
+  "shared": {
+    "wikiNavigation": "維基導覽",
+    "activeCodes": "有效代碼",
+    "updated": "已更新",
+    "viewAllCodes": "檢視所有代碼",
+    "inThisSection": "本節內容",
+    "tableOfContents": "目錄",
+    "nextSteps": "下一步",
+    "needHelp": "需要協助嗎？",
+    "relatedReading": "相關閱讀",
+    "relatedGuides": "相關攻略",
+    "readMore": "閱讀更多",
+    "officialMedia": "官方媒體",
+    "home": "首頁",
+    "noGuidesAvailable": "目前還沒有攻略，請稍後再回來查看！",
+    "playOnSteam": "在 Steam 加入願望清單"
+  },
+  "footer": {
+    "aboutTitle": "ANOMALITH Wiki",
+    "about": "ANOMALITH Wiki 是獨立粉絲打造的攻略站，涵蓋玩法與戰鬥攻略、武器與技能、異常區域通關、角色、故事與發售資訊，新手與老手都能找到實用內容。",
+    "quickLinks": "快速連結",
+    "guides": "攻略",
+    "legal": "法律資訊",
+    "copyright": "2026 ANOMALITH Wiki。與 FURYU Corporation 無任何關聯。",
+    "description": "生存動作冒險。探索異常區域、對抗生物、改裝武器，揭開扭曲世界背後的真相。",
+    "playGame": "在 Steam 將 ANOMALITH 加入願望清單",
+    "officialWebsite": "官方網站",
+    "officialDiscord": "官方 Discord",
+    "officialYoutube": "官方 YouTube",
+    "officialTwitter": "官方 X（Twitter）",
+    "walkthrough": "完整攻略",
+    "gameplayGuide": "遊戲玩法指南",
+    "mechanics": "戰鬥與系統",
+    "characters": "角色與故事",
+    "releaseInfo": "發售資訊與平台",
+    "privacyPolicy": "隱私權政策",
+    "termsOfService": "服務條款"
+  }
+}

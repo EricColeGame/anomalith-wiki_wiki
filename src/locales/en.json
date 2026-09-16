@@ -471,6 +471,48 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!",
     "playOnSteam": "Wishlist on Steam"
   },
+  "legalPages": {
+    "about": {
+      "title": "About",
+      "metaDescription": "ANOMALITH Wiki is an independent fan-built guide hub covering gameplay and combat guides, weapons and skills, anomaly zone walkthroughs, characters, story, and release information.",
+      "paragraphs": [
+        "ANOMALITH Wiki is an independent fan-built guide hub covering gameplay and combat guides, weapons and skills, anomaly zone walkthroughs, characters, story, and release information for new and veteran players alike.",
+        "Content is written for players and kept up to date as FURYU Corporation shares new details about the game."
+      ]
+    },
+    "privacyPolicy": {
+      "title": "Privacy Policy",
+      "metaDescription": "How ANOMALITH Wiki handles technical data, analytics, advertising, and external links.",
+      "paragraphs": [
+        "This fan wiki provides informational game guides for ANOMALITH. We do not request account credentials, Steam passwords, or private payment information.",
+        "Basic analytics, advertising, and hosting providers may process standard technical information such as device type, browser, approximate region, and visited pages.",
+        "External links may lead to Steam, Discord, YouTube, or community tools. Those services are governed by their own privacy policies."
+      ]
+    },
+    "termsOfService": {
+      "title": "Terms of Service",
+      "metaDescription": "The terms that apply when you use the ANOMALITH Wiki fan guide site.",
+      "paragraphs": [
+        "This site is an independent fan-made guide hub. Content is provided for informational and entertainment purposes only.",
+        "Game systems, codes, drops, and update details may change without notice. Always verify important information in-game or through official channels.",
+        "By using this site, you agree not to misuse it, attempt unauthorized access, or present this fan wiki as an official FURYU Corporation property."
+      ]
+    },
+    "copyright": {
+      "title": "Copyright",
+      "metaDescription": "Copyright and trademark notice for ANOMALITH Wiki, a non-official fan guide site.",
+      "paragraphs": [
+        "ANOMALITH, its key art, logos, and related media belong to FURYU Corporation and their respective owners.",
+        "This is a non-official fan wiki built for informational and guide presentation purposes.",
+        "If you own rights to content displayed here and have a concern, please contact the site operator for review."
+      ]
+    }
+  },
+  "notFound": {
+    "title": "Page not found",
+    "description": "The guide you are looking for may have moved or has not been added yet.",
+    "cta": "Browse All Guides"
+  },
   "footer": {
     "aboutTitle": "ANOMALITH Wiki",
     "about": "ANOMALITH Wiki is an independent fan-built guide hub covering gameplay and combat guides, weapons and skills, anomaly zone walkthroughs, characters, story, and release information for new and veteran players alike.",

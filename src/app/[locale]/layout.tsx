@@ -80,7 +80,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
           />
         )}
         <ThemeProvider attribute="class" defaultTheme="dark" enableSystem={false}>
-          <NextIntlClientProvider messages={messages}>
+          <NextIntlClientProvider locale={locale} messages={messages}>
             <JsonLd data={organization} />
             <SiteHeader locale={locale} />
             {children}
