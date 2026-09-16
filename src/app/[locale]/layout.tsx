@@ -12,7 +12,7 @@ import { routing } from "@/i18n/routing";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
 
-const siteUrl = process.env.NEXT_PUBLIC_SITE_URL || "https://myseafoodstand.top";
+const siteUrl = siteConfig.url;
 
 export function generateStaticParams() {
   return routing.locales.map((locale) => ({ locale }));

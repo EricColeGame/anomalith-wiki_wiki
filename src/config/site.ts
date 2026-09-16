@@ -8,6 +8,7 @@ export interface SiteConfig {
   gameUrl?: string;
   heroVideoId?: string;
   social?: {
+    website?: string;
     discord?: string;
     youtube?: string;
     twitter?: string;
@@ -27,6 +28,7 @@ export const siteConfig: SiteConfig = {
   gameUrl: "https://store.steampowered.com/app/4017880/ANOMALITH/",
   heroVideoId: "WU_E-yf4kj0", // ANOMALITH - Announcement Trailer (FURYU official channel)
   social: {
+    website: "https://www.cs.furyu.jp/anomalith/en/",
     discord: "https://discord.gg/7PnEy7aKPb",
     youtube: "https://www.youtube.com/@FURYUGAMES",
     twitter: "https://x.com/FURYU_GAMES_EN",

@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Guias Completos, Códigos, Receitas e Tier Lists",
-    "description": "Seu guia definitivo para My Seafood Stand no Roblox! Descubra códigos ativos, receitas de frutos do mar, melhores melhorias, estratégias de lucro e guias de progressão.",
-    "legalNotice": "Wiki não oficial feita por fãs. Criada por jogadores, para jogadores."
+    "name": "ANOMALITH Wiki",
+    "shortName": "ANOMALITH",
+    "tagline": "Guias completos, armas, habilidades e walkthroughs das zonas de anomalia",
+    "description": "O seu guia definitivo de ANOMALITH! Explore guias de gameplay, armas e habilidades, walkthroughs das zonas de anomalia, história e personagens, e informações sobre a demo e o lançamento.",
+    "legalNotice": "Wiki de fãs não oficial. Feita por jogadores, para jogadores."
   },
   "nav": {
     "races": "Raças",
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Códigos, Receitas, Melhorias e Guias",
-      "description": "Guia completo de My Seafood Stand no Roblox com códigos ativos válidos, todos os peixes e receitas, tier list das melhores melhorias e dicas para ganhar dinheiro rápido."
+      "title": "ANOMALITH Wiki - Habilidades, Armas e Guia",
+      "description": "Explore a Wiki de ANOMALITH com guias de gameplay, detalhes de armas, dicas de exploração das zonas de anomalia, informações de personagens, novidades e tudo o que os jogadores precisam."
     },
     "hero": {
-      "eyebrow": "Wiki da Comunidade Criada por Fãs",
-      "title": "My Seafood Stand",
-      "description": "Domine seu restaurante em My Seafood Stand no Roblox. Acesse todos os códigos ativos, catálogo completo de peixes e receitas, melhores melhorias e estratégias profissionais para lucrar.",
+      "eyebrow": "Terror de anomalias, sobrevivência e ação",
+      "title": "ANOMALITH Wiki",
+      "description": "ANOMALITH é um jogo de ação e aventura de sobrevivência em que os jogadores exploram misteriosas zonas de anomalia, enfrentam criaturas perigosas, personalizam armas e descobrem os segredos por trás de um mundo distorcido.",
       "stats": [
-        "Todos os Códigos",
-        "Todos os Peixes e Receitas",
-        "Guias de Melhorias",
-        "Dicas de Dinheiro Rápido"
+        "Steam · PS5 · Switch 2",
+        "12 habilidades disponíveis",
+        "Ação e aventura",
+        "Lançamento em 2026"
       ],
-      "primaryCta": "Guia para Iniciantes",
-      "secondaryCta": "Tier List de Frutos do Mar",
-      "tertiaryCta": "Códigos Ativos",
-      "videoLabel": "Mídia oficial"
+      "primaryCta": "Walkthrough completo",
+      "secondaryCta": "Combate e mecânicas",
+      "tertiaryCta": "Lançamento e plataformas",
+      "videoLabel": "Trailer oficial"
     },
     "updates": {
       "title": "Últimas Atualizações",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Pronto para Dominar My Seafood Stand?",
-      "description": "Dos seus primeiros passos em Fort Adams até as lutas contra chefes no endgame — nossa wiki da comunidade traz tudo o que você precisa com guias gratuitos e atualizados.",
-      "primary": "Ler o Guia para Iniciantes",
-      "secondary": "Jogar no Roblox"
+      "title": "Pronto para dominar ANOMALITH?",
+      "description": "Da sua primeira zona de anomalia aos segredos por trás da distorção, nossa wiki da comunidade cobre você com guias gratuitos e atualizados.",
+      "primary": "Ler o walkthrough completo",
+      "secondary": "Adicionar na Steam"
     }
   },
   "bosses": {
@@ -366,7 +366,6 @@
     "activeCodes": "Códigos Ativos",
     "updated": "Atualizado",
     "viewAllCodes": "Ver todos os códigos",
-    "playOnRoblox": "Jogar no Roblox",
     "inThisSection": "Nesta seção",
     "tableOfContents": "Índice",
     "nextSteps": "Próximos Passos",
@@ -376,24 +375,27 @@
     "readMore": "Ler mais",
     "officialMedia": "Mídia oficial",
     "home": "Início",
-    "noGuidesAvailable": "Nenhum guia disponível ainda. Volte em breve!"
+    "noGuidesAvailable": "Nenhum guia disponível ainda. Volte em breve!",
+    "playOnSteam": "Adicionar na Steam"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "A My Seafood Stand Wiki é uma central de guias independente criada por fãs, cobrindo rotas de progressão, raças, chefes, builds e conhecimentos essenciais do jogo para novatos e veteranos.",
-    "quickLinks": "Links Rápidos",
+    "aboutTitle": "ANOMALITH Wiki",
+    "about": "A ANOMALITH Wiki é uma central de guias independente criada por fãs, cobrindo guias de gameplay e combate, armas e habilidades, walkthroughs das zonas de anomalia, personagens, história e informações de lançamento para jogadores novos e veteranos.",
+    "quickLinks": "Links rápidos",
     "guides": "Guias",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Não afiliado à Midnight Continent ou ao Roblox.",
-    "description": "RPG de luta gratuito no Roblox inspirado em Bleach. 3 raças, mais de 130 habilidades, Nív. 100 máx.",
-    "playGame": "Jogar My Seafood Stand",
+    "copyright": "2026 ANOMALITH Wiki. Não afiliado à FURYU Corporation.",
+    "description": "Ação e aventura de sobrevivência. Explore zonas de anomalia, enfrente criaturas, personalize armas e descubra a verdade por trás de um mundo distorcido.",
+    "playGame": "Adicionar ANOMALITH na Steam",
+    "officialWebsite": "Site oficial",
     "officialDiscord": "Discord Oficial",
     "officialYoutube": "YouTube Oficial",
-    "vvBuilder": "VV Builder (Planejador de Habilidades)",
-    "beginnerGuide": "Guia para Iniciantes",
-    "raceGuides": "Guias de Raças",
-    "bossGuides": "Guias de Chefes",
-    "buildGuide": "Guia de Builds",
+    "officialTwitter": "X (Twitter) oficial",
+    "walkthrough": "Walkthrough completo",
+    "gameplayGuide": "Guia de gameplay",
+    "mechanics": "Combate e mecânicas",
+    "characters": "Personagens e história",
+    "releaseInfo": "Lançamento e plataformas",
     "privacyPolicy": "Política de Privacidade",
     "termsOfService": "Termos de Serviço"
   }

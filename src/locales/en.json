@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
+    "name": "ANOMALITH Wiki",
+    "shortName": "ANOMALITH",
+    "tagline": "Complete Guides, Weapons, Skills & Anomaly Zone Walkthroughs",
+    "description": "Your ultimate guide to ANOMALITH! Explore gameplay guides, weapons and skills, anomaly zone walkthroughs, story and characters, demo and release information.",
     "legalNotice": "Non-official fan wiki. Made by players, for players."
   },
   "nav": {
@@ -26,23 +26,23 @@
   },
   "home": {
     "meta": {
-      "title": "My Seafood Stand Wiki — Codes, Recipes, Upgrades & Guides",
-      "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
+      "title": "ANOMALITH Wiki - Skills, Weapons & Guide",
+      "description": "Explore ANOMALITH Wiki with gameplay guides, weapon details, anomaly exploration tips, character information, updates, and everything players need."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Survival Anomaly Horror Action Adventure",
+      "title": "ANOMALITH Wiki",
+      "description": "ANOMALITH is a survival action adventure game where players explore mysterious anomaly zones, fight dangerous creatures, customize weapons, and uncover the secrets behind a distorted world.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "Steam · PS5 · Switch 2",
+        "12 Skills Available",
+        "Action Adventure",
+        "2026 Release"
       ],
-      "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "primaryCta": "Full Walkthrough",
+      "secondaryCta": "Combat & Mechanics",
+      "tertiaryCta": "Release Date & Platforms",
+      "videoLabel": "Official Trailer"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,10 +342,10 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
-      "primary": "Read the Beginner Guide",
-      "secondary": "Play on Roblox"
+      "title": "Ready to Master ANOMALITH?",
+      "description": "From your first anomaly zone to the secrets behind the distortion, our community wiki has you covered with free, up-to-date guides.",
+      "primary": "Read the Full Walkthrough",
+      "secondary": "Wishlist on Steam"
     }
   },
   "bosses": {
@@ -366,7 +366,6 @@
     "activeCodes": "Active Codes",
     "updated": "Updated",
     "viewAllCodes": "View all codes",
-    "playOnRoblox": "Play on Roblox",
     "inThisSection": "In this section",
     "tableOfContents": "Table of Contents",
     "nextSteps": "Next Steps",
@@ -376,24 +375,27 @@
     "readMore": "Read more",
     "officialMedia": "Official media",
     "home": "Home",
-    "noGuidesAvailable": "No guides available yet. Check back soon!"
+    "noGuidesAvailable": "No guides available yet. Check back soon!",
+    "playOnSteam": "Wishlist on Steam"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "ANOMALITH Wiki",
+    "about": "ANOMALITH Wiki is an independent fan-built guide hub covering gameplay and combat guides, weapons and skills, anomaly zone walkthroughs, characters, story, and release information for new and veteran players alike.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
+    "copyright": "2026 ANOMALITH Wiki. Not affiliated with FURYU Corporation.",
+    "description": "Survival action adventure. Explore anomaly zones, fight creatures, customize weapons, and uncover the truth behind a distorted world.",
+    "playGame": "Wishlist ANOMALITH on Steam",
+    "officialWebsite": "Official Website",
     "officialDiscord": "Official Discord",
     "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
-    "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "officialTwitter": "Official X (Twitter)",
+    "walkthrough": "Full Walkthrough",
+    "gameplayGuide": "Gameplay Guide",
+    "mechanics": "Combat & Mechanics",
+    "characters": "Characters & Story",
+    "releaseInfo": "Release & Platforms",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

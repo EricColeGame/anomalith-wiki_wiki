@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>ANOMALITH Wiki is an independent fan-built guide hub covering gameplay and combat guides, weapons and skills, anomaly zone walkthroughs, characters, story, and release information for new and veteran players alike.</p>
+      <p>Content is written for players and kept up to date as FURYU Corporation shares new details about the game.</p>
     </LegalPage>
   );
 }

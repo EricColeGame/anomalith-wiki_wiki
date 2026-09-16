@@ -1,9 +1,9 @@
 {
   "site": {
-    "name": "VV: ULTIMATUM",
-    "shortName": "VV Ultimatum",
-    "tagline": "ファンメイド コミュニティ Wiki",
-    "description": "Roblox『VV: ULTIMATUM』の完全攻略Wiki。死神・滅却師・虚の3つの種族を極めるためのガイド、ボス攻略、ビルド最適化、最新コード情報。",
+    "name": "ANOMALITH Wiki",
+    "shortName": "ANOMALITH",
+    "tagline": "完全ガイド、武器、スキル、異常領域の攻略",
+    "description": "ANOMALITH の完全攻略 Wiki。ゲームプレイガイド、武器とスキル、異常領域の攻略、ストーリーとキャラクター、体験版・発売情報を網羅。",
     "legalNotice": "非公式ファンWiki。プレイヤーによる、プレイヤーのための攻略サイト。"
   },
   "nav": {
@@ -21,24 +21,23 @@
   },
   "home": {
     "meta": {
-      "title": "VV: ULTIMATUM — コード・ビルド・ガイド | VV Ultimatum Wiki",
-      "description": "VV: ULTIMATUM の完全攻略Wiki。有効なコード、ボス攻略、種族ガイド、ビルド最適化、死神・滅却師・虚の進行ウォークスルー。"
+      "title": "ANOMALITH Wiki - スキル・武器・ガイド",
+      "description": "ANOMALITH Wiki では、ゲームプレイガイド、武器の詳細、異常領域の探索のコツ、キャラクター情報、アップデートなど、プレイヤーに必要な情報を網羅しています。"
     },
     "hero": {
-      "eyebrow": "ファンメイド コミュニティ Wiki",
-      "title": "VV: ULTIMATUM",
-      "description": "Roblox『VV: ULTIMATUM』の完全攻略Wiki。死神・滅却師・虚の3つの種族を極めるためのガイド、ボス攻略、ビルド最適化、最新コード情報を網羅。",
+      "eyebrow": "サバイバル・アノマリー・ホラー・アクションアドベンチャー",
+      "title": "ANOMALITH Wiki",
+      "description": "ANOMALITH は、謎めいた異常領域を探索し、危険なクリーチャーと戦い、武器をカスタマイズしながら、歪んだ世界の秘密を解き明かしていくサバイバル・アクションアドベンチャーです。",
       "stats": [
-        "6月5日配信",
-        "6月12日更新",
-        "3種族",
-        "Lv100上限",
-        "130+スキル"
+        "Steam · PS5 · Switch 2",
+        "12 種類のスキル",
+        "アクションアドベンチャー",
+        "2026 年発売"
       ],
-      "primaryCta": "初心者ガイドを見る",
-      "secondaryCta": "種族を比較する",
-      "tertiaryCta": "有効なコードを確認",
-      "videoLabel": "公式メディア"
+      "primaryCta": "完全攻略",
+      "secondaryCta": "戦闘とシステム",
+      "tertiaryCta": "発売日と対応機種",
+      "videoLabel": "公式トレーラー"
     },
     "updates": {
       "title": "最新更新",
@@ -429,10 +428,10 @@
       ]
     },
     "finalCta": {
-      "title": "VV: ULTIMATUM をマスターする準備はできましたか？",
-      "description": "Fort Adams での最初の一歩からエンドゲームのボス戦まで、コミュニティ Wiki が無料の最新ガイドでサポートします。",
-      "primary": "初心者ガイドを読む",
-      "secondary": "Roblox でプレイ"
+      "title": "ANOMALITH を極める準備はできましたか？",
+      "description": "最初の異常領域から、歪みの裏に隠された秘密まで。コミュニティ Wiki が無料で最新のガイドをお届けします。",
+      "primary": "完全攻略を読む",
+      "secondary": "Steam でウィッシュリストに追加"
     }
   },
   "bosses": {
@@ -452,7 +451,6 @@
     "activeCodes": "有効なコード",
     "updated": "更新",
     "viewAllCodes": "全コードを見る",
-    "playOnRoblox": "Robloxでプレイ",
     "inThisSection": "目次",
     "tableOfContents": "目次",
     "nextSteps": "次のステップ",
@@ -463,24 +461,27 @@
     "readMore": "続きを読む",
     "toggleToc": "目次を開く/閉じる",
     "home": "ホーム",
-    "noGuidesAvailable": "ガイドはまだありません。お楽しみに！"
+    "noGuidesAvailable": "ガイドはまだありません。お楽しみに！",
+    "playOnSteam": "Steam でウィッシュリストに追加"
   },
   "footer": {
-    "aboutTitle": "VV Ultimatum Wiki",
-    "about": "VV Ultimatum Wiki は、新規プレイヤーからベテランまで、進行ルート・種族・ボス・ビルドなど幅広いゲーム知識を網羅したファン制作の攻略サイトです。",
+    "aboutTitle": "ANOMALITH Wiki",
+    "about": "ANOMALITH Wiki は、ゲームプレイと戦闘のガイド、武器とスキル、異常領域の攻略、キャラクター、ストーリー、発売情報を扱う、ファンによる非公式の攻略ハブです。",
     "quickLinks": "クイックリンク",
     "guides": "ガイド",
-    "legal": "法務",
-    "copyright": "© 2026 VV: ULTIMATUM Wiki. Midnight Continent および Roblox とは無関係です。",
-    "description": "Roblox の無料 Bleach 系格闘 RPG。3種族、130以上のスキル、Lv100上限。",
-    "playGame": "VV: ULTIMATUM をプレイ",
+    "legal": "法的情報",
+    "copyright": "2026 ANOMALITH Wiki. FURYU Corporation とは無関係です。",
+    "description": "サバイバル・アクションアドベンチャー。異常領域を探索し、クリーチャーと戦い、武器をカスタマイズして、歪んだ世界の真実を解き明かそう。",
+    "playGame": "Steam で ANOMALITH をウィッシュリストに追加",
+    "officialWebsite": "公式サイト",
     "officialDiscord": "公式 Discord",
     "officialYoutube": "公式 YouTube",
-    "vvBuilder": "VV Builder（スキルプランナー）",
-    "beginnerGuide": "初心者ガイド",
-    "raceGuides": "種族ガイド",
-    "bossGuides": "ボスガイド",
-    "buildGuide": "ビルドガイド",
+    "officialTwitter": "公式 X（Twitter）",
+    "walkthrough": "完全攻略",
+    "gameplayGuide": "ゲームプレイガイド",
+    "mechanics": "戦闘とシステム",
+    "characters": "キャラクターとストーリー",
+    "releaseInfo": "発売日と対応機種",
     "privacyPolicy": "プライバシーポリシー",
     "termsOfService": "利用規約"
   }
