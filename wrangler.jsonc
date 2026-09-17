@@ -9,6 +9,10 @@
     {
       "pattern": "anomalith-wiki.wiki",
       "custom_domain": true
+    },
+    {
+      "pattern": "www.anomalith-wiki.wiki",
+      "custom_domain": true
     }
   ]
 }
