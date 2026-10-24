@@ -8,6 +8,7 @@ import { NextIntlClientProvider } from "next-intl";
 import { notFound } from "next/navigation";
 import { ThemeProvider } from "next-themes";
 import { JsonLd, SiteFooter, SiteHeader } from "@/components/site";
+import { AffiliateBanner } from "@/components/ads";
 import { routing } from "@/i18n/routing";
 
 const inter = Inter({ subsets: ["latin"], variable: "--font-sans" });
@@ -84,6 +85,7 @@ export default async function LocaleLayout({ children, params }: { children: Rea
             <JsonLd data={organization} />
             <SiteHeader locale={locale} />
             {children}
+            <AffiliateBanner className="mt-8 mb-8" />
             <SiteFooter locale={locale} />
           </NextIntlClientProvider>
         </ThemeProvider>
